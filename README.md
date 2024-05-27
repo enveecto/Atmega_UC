@@ -34,6 +34,9 @@ This project uses the [Optiboot bootloader](https://github.com/Optiboot/optiboot
 - [Arduino IDE](https://www.arduino.cc/en/software) or [AVR-GCC](https://gcc.gnu.org/wiki/avr-gcc)
 - [AVRDUDE](http://www.nongnu.org/avrdude/)
 
+### Instruction
+You will need a USB to TTL convertor to Upload your firmware this does not comes with a builtin.
+
 ### Installation
 1. Clone this repository:
    ```bash
