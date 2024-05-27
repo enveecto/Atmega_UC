@@ -27,8 +27,8 @@ For those who do not have EasyEDA, the schematic is also available as a PDF:
 
 Quick reference images of the schematic and component layout are available in the `images` directory:
 
-- ![Schematic Overview](images/schematic_overview.png)
-- ![Component Layout](images/component_layout.png)
+- ![Schematic Overview](schematic_overview.png)
+
 
 ## Modifying the Schematics
 
