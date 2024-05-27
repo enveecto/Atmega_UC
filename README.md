@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the design files, firmware, and documentation for a custom microcontroller based on the ATmega328P.
 
-![image](https://github.com/enveecto/Atmega_UC/board.png)
+![image](board.png)
 
 
 ## Features
