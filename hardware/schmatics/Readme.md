@@ -3,10 +3,7 @@
 This directory contains the schematics for the ATmega328P-based microcontroller project.
 
 ## Files
-
-- `atmega328p_schematic.sch`: The original schematic file in [EAGLE](https://www.autodesk.com/products/eagle/overview) format.
-- `atmega328p_schematic.pdf`: A PDF version of the schematic for easy viewing.
-- `images/`: Contains images of the schematic overview and component layout for quick reference.
+- `Schematic_atmega.pdf`: A PDF version of the schematic for easy viewing.
 
 ## Viewing the Schematics
 
@@ -27,7 +24,7 @@ For those who do not have EasyEDA, the schematic is also available as a PDF:
 
 Quick reference images of the schematic and component layout are available in the `images` directory:
 
-- ![Schematic Overview](schematic_overview.png)
+- ![Schematic Overview](schematic.png)
 
 
 ## Modifying the Schematics
