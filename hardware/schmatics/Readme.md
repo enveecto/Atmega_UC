@@ -12,16 +12,16 @@ This directory contains the schematics for the ATmega328P-based microcontroller 
 
 ### EasyEDA Format
 
-The original schematic file is provided in EAGLE format. You can open and edit this file using the EAGLE PCB design software.
+The original schematic file is provided in EasyEDA format. You can open and edit this file using the EAGLE PCB design software.
 
 1. Download and install [EasyEDA](https://easyeda.com/page/download).
 2. Open the `atmega328p_schematic.sch` file in EasyEDA.
 
 ### PDF Format
 
-For those who do not have EAGLE, the schematic is also available as a PDF:
+For those who do not have EasyEDA, the schematic is also available as a PDF:
 
-- [atmega328p_schematic.pdf](atmega328p_schematic.pdf)
+- [atmega328p_schematic.pdf](Schematic_atmega.pdf)
 
 ### Images
 
