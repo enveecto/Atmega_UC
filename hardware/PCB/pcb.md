@@ -4,7 +4,7 @@ This directory contains the PCB design files for the ATmega328P-based microcontr
 
 ## Files
 
-- `atmega328p_pcb.brd`: The original PCB design file in EasyEDA format.
+- `pcb.png`: PCB Snapshot.
 - `gerber/`: Contains the Gerber files needed for PCB manufacturing.
 
 ### Gerber Files
